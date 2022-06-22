@@ -1,0 +1,12 @@
+C:\Users\cadd\source\repos\bütproje\bütproje\bin\Debug\mağaza.mdf
+C:\Users\cadd\source\repos\bütproje\bütproje\bin\Debug\mağaza_log.ldf
+C:\Users\cadd\source\repos\bütproje\bütproje\bin\Debug\bütproje.exe.config
+C:\Users\cadd\source\repos\bütproje\bütproje\bin\Debug\bütproje.exe
+C:\Users\cadd\source\repos\bütproje\bütproje\bin\Debug\bütproje.pdb
+C:\Users\cadd\source\repos\bütproje\bütproje\obj\Debug\bütproje.csproj.AssemblyReference.cache
+C:\Users\cadd\source\repos\bütproje\bütproje\obj\Debug\bütproje.Form1.resources
+C:\Users\cadd\source\repos\bütproje\bütproje\obj\Debug\bütproje.Properties.Resources.resources
+C:\Users\cadd\source\repos\bütproje\bütproje\obj\Debug\bütproje.csproj.GenerateResource.cache
+C:\Users\cadd\source\repos\bütproje\bütproje\obj\Debug\bütproje.csproj.CoreCompileInputs.cache
+C:\Users\cadd\source\repos\bütproje\bütproje\obj\Debug\bütproje.exe
+C:\Users\cadd\source\repos\bütproje\bütproje\obj\Debug\bütproje.pdb
